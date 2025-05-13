@@ -6,6 +6,7 @@
 - 🎭 Leader of a French amateur musical theatre company
 - 🧑‍💻 Building tools for musicians, artists, and writers
 - 💻 Working at **PrestaShop** as a **Core Developer** and **maintainer of the open source e-commerce solution**
+- 🐎 Proud dad of three magnificent horses
 
 ## 💼 Ongoing Projects
 
