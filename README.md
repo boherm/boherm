@@ -11,7 +11,7 @@
 ## 💼 Ongoing Projects
 
 - 🎵 **Ambient Album**: A sonic journey from space to Earth *(coming soon!)*
-- 🐴 **SnoringPony**: An open source tool for musical theater companies to manage sound and musics in stage productions
+- 🐴 **[SnoringPony](https://snoringpony.app/)**: An open source tool for musical theater companies to manage sound and musics in stage productions
 - 🧑‍🔧 **Open source**: Actively contributing to various projects like [PrestaShop](https://github.com/PrestaShop/PrestaShop)
 
 ## 📫 Get in Touch
